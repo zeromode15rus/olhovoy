@@ -1,0 +1,36 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  font-family: 'Segoe UI', system-ui, -apple-system, BlinkMacSystemFont, 'Roboto', sans-serif;
+  font-size: 16px;
+  line-height: 1.55;
+  color: #1e293b;
+  background: #f8fafc;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+a {
+  color: #0f766e;
+}
+
+a:hover {
+  color: #0d9488;
+}
+
+#root {
+  min-height: 100vh;
+}
