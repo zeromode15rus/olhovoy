@@ -107,4 +107,5 @@ VITE_BASE=/имя-репозитория/ npm run build
     └── data/
         └── siteData.js
 ```
-# uzi_plus
+
+Репозиторий на GitHub: **`olhovoy`** (`https://github.com/zeromode15rus/olhovoy`). После переименования страница будет доступна по адресу `https://zeromode15rus.github.io/olhovoy/` (если включён GitHub Pages из Actions).
